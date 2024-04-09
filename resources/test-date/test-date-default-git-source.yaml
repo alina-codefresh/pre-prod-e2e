@@ -18,7 +18,7 @@ spec:
       exclude: ''
       recurse: true
   destination:
-    namespace: codefresh
+    namespace: test-date
     server: https://kubernetes.default.svc
   syncPolicy:
     automated:
